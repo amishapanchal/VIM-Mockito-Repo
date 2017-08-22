@@ -25,7 +25,7 @@ targetCompatibility = 1.7
 
 repositories {
      flatDir { dirs "lib" }   
-	 mavenCentral()
+//	 mavenCentral()
      maven { url "http://10.109.32.183:8081/nexus/content/groups/public" }
 }
 
